@@ -1,1 +1,3 @@
-vxc
+language: java
+jdk: 
+  - openjdk8
